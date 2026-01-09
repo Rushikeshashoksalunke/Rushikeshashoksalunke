@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rushikeshashoksalunke
-- 💞️ I’m looking to stay forward in networking and cyber security domains
+ 
   
 
 <!---
