@@ -15,4 +15,4 @@
 To become a Backend Java Developer
 
 ## 📫 Contact
-LinkedIn: (your link)
+LinkedIn: https://www.linkedin.com/in/rushikesh-salunke-1b670b289/
