@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @Rushikeshashoksalunke
- 
-  
-
-<!---
-Rushikeshashoksalunke/Rushikeshashoksalunke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Java Developer | OOP | Learning Spring Boot | Open to Work
