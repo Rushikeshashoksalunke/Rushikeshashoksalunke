@@ -17,13 +17,13 @@ I am an Information Technology student with practical internship experience focu
 
 ### 📌 Projects
 
-#### 🏦 [CLI Bank Account Management System]
+#### 🏦 CLI Bank Account Management System
 *A command-line banking application focused on user account operations and data storage.*
 *   **Tech Stack:** Java, OOP, File Handling.
 *   Built a system to save and read account data directly using Java File I/O (`BufferedReader`/`FileWriter`).
 *   Handled input validation and errors using custom exception handling to manage secure transactions.
 
-#### 🚖 [Ola Cab Booking Simulation System]
+#### 🚖 Ola Cab Booking Simulation System
 *An interactive command-line application simulating a car booking system.*
 *   **Tech Stack:** Java, OOP Principles.
 *   Used OOP concepts like inheritance and polymorphism to create different vehicle choices (Mini, Sedan, SUV).
