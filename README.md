@@ -1,15 +1,17 @@
 # Hi, I'm Rushikesh 👋
 
-💻 Java Developer (Fresher)  
-📚 Learning Spring Boot & Backend Development  
+💻 Java Developer   
+📚 Spring Boot & Backend Development  
 
 ## 🚀 Skills
 - Java (OOP, Collections)
 - SQL
-- Basic Web (HTML, CSS)
+- HTML, CSS ,JS
+- Adv java ( Hibernate , JDBC , Spring )
 
 ## 📌 Projects
 - Ola Cab CLI System (Java)
+- CLI-Banking-System 
 
 ## 🎯 Goal
 To become a Backend Java Developer
